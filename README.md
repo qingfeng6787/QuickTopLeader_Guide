@@ -1,6 +1,7 @@
 # QuickTopLeader_Guide
 顶级快客任务使用引导
-
+# 私服环境准备
+* [MAMP Pro 软件安装](https://www.mamp.info/en/mamp-pro/windows/)
 
 #阅读后台服务部分部署后台Api
 https://github.com/qingfeng6787/QuickTopLeader_backend
